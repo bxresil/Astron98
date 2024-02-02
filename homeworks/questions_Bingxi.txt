@@ -1,11 +1,17 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+cd directory_name:get to the directory; cd:come back to the parent directory; dir:see the contents of the directory you're in; mkdir dir_name: make a new directory; ssh user@machine: access another user's work or files.
+Chinese
 
 2. Do you have pets? What kind?
+No, I don't have pets. But I wish to have a dog.
 
 3. If you run across an error, what would your first course of action be?
+Drink water.
+It must be a long time.
 
 4. Funniest thing that happened to you in high school.
+8 students escaped from a class and ran to playground playing basketball. Then get caught by teacher.
 
 5. What is a python script? (Keep it simple)
-
+It's a file containing Python code that is designed to perform a specific task or a set of tasks. We can run or execute this file using the Python interpreter to carry out those tasks.
 

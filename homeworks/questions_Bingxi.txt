@@ -1,6 +1,6 @@
 1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
 cd directory_name:get to the directory; cd:come back to the parent directory; dir:see the contents of the directory you're in; mkdir dir_name: make a new directory; ssh user@machine: access another user's work or files.
-Chinese
+English
 
 2. Do you have pets? What kind?
 No, I don't have pets. But I wish to have a dog.
